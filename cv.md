@@ -4,7 +4,7 @@
 
 #  German Nikitchenko   
 
-![lypaza](https://github.com/lypaza/rsschool-cv/blob/main/img/newheman.png?raw=true "n")
+![lypaza](https://github.com/lypaza/rsschool-cv/blob/gh-pages/img/newheman.png?raw=true "n")
 
 ---
  
